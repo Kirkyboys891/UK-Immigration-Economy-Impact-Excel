@@ -3,7 +3,7 @@ Data-driven analysis of how immigration affects the UK economy using Excel.
 
 # Economic Impact of Immigration on the UK (Excel-Based Analysis)
 
-This project explores how high levels of immigration affect the UK economy using publicly available data and Excel. It includes a fully interactive dashboard, charts, and findings based on immigration, employment, and GDP data from 1998–2025.
+This project explores how levels of immigration affect the UK economy using publicly available data and Excel. It includes a fully interactive dashboard, charts, and findings based on immigration, employment, and GDP data from 1998–2025.
 
 ## What’s Inside
 
