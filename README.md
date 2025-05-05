@@ -23,7 +23,7 @@ This project explores how levels of immigration affect the UK economy using publ
 ## Sample Questions Answered
 
 - Does immigration growth correlate with GDP growth or unemployment?
-- Which UK sectors rely most on foreign-born labor?
+- Which UK sectors rely most on foreign-born labour?
 - Are there regional patterns to immigration and economic impact?
 
 ## Tools Used
